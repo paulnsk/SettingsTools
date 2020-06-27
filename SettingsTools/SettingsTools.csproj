@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>netstandard2.0;net452</TargetFrameworks>
+    <Version>1.0.0</Version>
+    <Authors>Paulnsk</Authors>
+    <Description>Paul's settings tools</Description>
+    <Copyright>Paulnsk</Copyright>
+  </PropertyGroup>
+
+</Project>
